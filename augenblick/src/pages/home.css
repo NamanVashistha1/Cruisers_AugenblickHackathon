@@ -1,0 +1,72 @@
+.topnav {
+    font-size: 1em;
+    background: rgba(12, 12, 12, 0.9);
+    padding: 10px 20px 10px 20px;
+  }
+  
+  .topnav .navbar-brand {
+    font-size: 1.5em;
+    color: #fff;
+  }
+  
+  .topnav .navbar-brand:hover, .topnav .navbar-brand:focus {
+    color: #666;
+  }
+  
+  .topnav ul.navbar-nav li a {
+    color: #fff;
+  }
+  
+  .topnav ul.navbar-nav li a:hover, .topnav ul.navbar-nav li a:focus {
+    color: #cccccc;
+  }
+  
+  .home {
+    height: 100%;
+    width: 100%;
+    background: url(http://images.freeimages.com/images/large-previews/9e6/abstract-polygonal-low-poly-photos-texture-3-636190.jpg) center;
+    color: white;
+    background-size: cover;
+    position: relative;
+  }
+  
+  #welcome {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+  
+  #wtext {
+    font-size: 5em;
+    text-shadow: 3px 3px rgba(0 ,0 ,0 ,0.5);
+    line-height: 0.6;
+  }
+  
+  #subtext {
+    font-size: 1.6em;
+    text-shadow: 2px 2px rgba(0 ,0 ,0 ,0.5);
+    line-height: 1.5;
+  }
+  
+  .portfolio {
+    height: 100%;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: url(http://www.technocrazed.com/wp-content/uploads/2015/12/Blue-Wallpaper-For-Background-18.jpg) center;
+    color: white;
+    background-size: cover;
+  }
+  
+  .portfolio h4, .portfolio p {
+    color: grey;
+  }
+  
+  .contact {
+    height: 100%;
+    width: 100%;
+    background: url(http://spanishimmersionlearning.com/wp-content/uploads/2014/09/hompage-picture-01.jpg) center;
+    color: white;
+    background-size: cover;
+  }

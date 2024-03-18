@@ -1,0 +1,17 @@
+.container{
+  
+}
+.image img{
+  height:166px;
+  width:179px;
+  box-shadow: 20px 20px grey;
+}
+
+.grid{
+  display:flex;
+  background-color:light-grey;
+  padding:100px;
+}
+.text{
+  /* padding:5px 180px 50px; */
+}
